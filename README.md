@@ -1,6 +1,7 @@
 # Introduction
 Animal-Classification
-Jaguar VS Zebra
+Jaguar VS Zebra :smiley:
+
 
 # Environment
 Jupyter Notbook, R, and R-Shiny by using the libraries Tensorflow, Keras
