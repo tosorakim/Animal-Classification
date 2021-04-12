@@ -1,6 +1,5 @@
 # Introduction
-Animal-Classification
-Jaguar VS Zebra :smiley:
+Animal-Classification: Jaguar VS Zebra :smiley:
 
 
 # Environment
